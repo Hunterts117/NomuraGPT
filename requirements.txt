@@ -3,3 +3,4 @@ streamlit_chat
 langchain
 llama_index
 docx2txt
+pdf2txt

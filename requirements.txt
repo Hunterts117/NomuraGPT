@@ -4,3 +4,4 @@ langchain
 llama_index
 docx2txt
 pdf2txt
+ipywidgets

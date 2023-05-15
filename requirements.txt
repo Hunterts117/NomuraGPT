@@ -5,3 +5,9 @@ llama_index
 docx2txt
 pdf2txt
 ipywidgets
+openai
+pypdf
+scikit-learn
+numpy
+pydantic
+typing
